@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niha Singhania</h1>
 <h3 align="center">I love working with TECH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihasinghania22&label=Profile%20views&color=0e75b6&style=flat" alt="nihasinghania22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihasinghania22" alt="nihasinghania22" /></a> </p>
-
 - 🔭 I’m currently working on **Enhancing Facial and Texture Analysis: Leveraging Computer Vision and Machine Learning for cutting-edge research application.**
 
 - 📫 How to reach me **nihasinghania22@gmail.com**
