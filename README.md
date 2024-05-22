@@ -1,6 +1,8 @@
+
+![logo](https://media.licdn.com/dms/image/D5616AQGyYoqfDhJSlQ/profile-displaybackgroundimage-shrink_350_1400/0/1686951129883?e=1721865600&v=beta&t=WJGzg272txrXi5MW2769Rm-khG57nA1xYRb7Xxmg6jg)
 <h1 align="center">Hi 👋, I'm Niha Singhania</h1>
 <h3 align="center">I love working with TECH</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently working on **Enhancing Facial and Texture Analysis: Leveraging Computer Vision and Machine Learning for cutting-edge research application.**
 
